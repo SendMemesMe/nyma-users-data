@@ -21,7 +21,7 @@
 		"surname": "Surname",
 		  "photos": [
 			"https://images.pexels.com/photos/1755385/pexels-photo-1755385.jpeg",
-			"https://images.pexels.com/photos/2646776/pexels-photo-2646776.jpeg",
+			"https://images.pexels.com/photos/2646776/pexels-photo-2646776.jpeg"
 		  ],
 		"location": "",
 		"distance": "",
@@ -34,7 +34,7 @@
 		"surname": "Surname",
 		  "photos": [
 			"https://images.pexels.com/photos/9870406/pexels-photo-9870406.jpeg",
-			"https://images.pexels.com/photos/9893311/pexels-photo-9893311.jpeg",
+			"https://images.pexels.com/photos/9893311/pexels-photo-9893311.jpeg"
 			"photo"
 		  ],
 		"location": "",
@@ -283,4 +283,5 @@
 		"isOnline": ""
     }
   ]
+
 }
